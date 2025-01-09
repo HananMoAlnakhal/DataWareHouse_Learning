@@ -43,7 +43,7 @@ check [populate the data warehouse](https://github.com/HananMoAlnakhal/DataWareH
 ![image](https://github.com/user-attachments/assets/cc2d2f15-12ef-447c-9f02-c66c7b973f82)
 
 ## to explore the schema+ the views
-1. download the dvd_rental+datawarehouse.backup
+1. download the [dvd_rental+datawarehouse.backup](https://github.com/HananMoAlnakhal/DataWareHouse_Learning/blob/main/dvdRental/dvd_rental%2Bdatawarehouse.backup)
 2. open pgAdmin and make a new database
 3. restore the file in the database
 4. open the schemas
