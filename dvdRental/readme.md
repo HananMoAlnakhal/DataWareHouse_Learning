@@ -37,7 +37,7 @@ FROM
 	JOIN PUBLIC.CITY CITY ON (ADDRE.CITY_ID = CITY.CITY_ID)
 	JOIN PUBLIC.COUNTRY COUNTRY ON (CITY.COUNTRY_ID = COUNTRY.COUNTRY_ID);
 ```
-check ![populate the warehouse]() file for full code
+check [populate the data warehouse](https://github.com/HananMoAlnakhal/DataWareHouse_Learning/blob/main/dvdRental/populating%20the%20data%20warehouse.sql) file for full code
 
 ## made simpler views:
 ![image](https://github.com/user-attachments/assets/cc2d2f15-12ef-447c-9f02-c66c7b973f82)
